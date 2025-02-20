@@ -1,6 +1,8 @@
 ## Salvee! Eu sou o Felipe Silva
 
- Desenvolvedor Frontend no KaBuM! apaixonado por tecnologia e programação web. 
+ 🥷 Desenvolvedor Frontend no KaBuM! 
+ <br/>
+ 💻 Graduando em Sistemas de Informação pela Fundação Hermínio Ometto
 
 
 <div>
